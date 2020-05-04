@@ -1,0 +1,33 @@
+[Variables]
+Bands=120
+BarWidth=4.5
+BarHeight=306
+;Rainbow Gradient: GColor=255,0,0,255:0|255,255,0,255:16|0,255,0,255:33|0,255,255,255:50|0,0,255,255:67|255,0,255,255:84|255,0,0,255:100
+GColor=210,228,255,255:0|239,33,177,255:50|222,231,254,255:100
+SColor=241,18,141,255
+Gradient=1
+Radius=144
+StartAngle=0
+EndAngle=360
+AngularDisplacement=0
+Smoothing=3
+AveragingPastValuesAmount=1
+Mirror=1
+InvertMirror=0
+InvertBars=0
+Scale=1
+MinBarHeight=0
+FFTSize=8192
+FFTBufferSize=16384
+FFTAttack=0
+FFTDecay=65
+FreqMin=22
+FreqMax=200
+Sensitivity=33
+; !!! DO NOT CHANGE BELOW
+SkinGroup=BassBeat2
+Config=BassBeat2
+Invert=
+Channel=
+Port=
+ID=
